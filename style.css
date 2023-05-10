@@ -1,0 +1,46 @@
+body{
+    background-color:palegoldenrod;
+  }
+  h1, h2{
+    background-color:grey;
+   color:purple;
+  }
+  
+  p{
+    color:black ;
+    word-spacing:5px ;
+    font-variant:small-caps;
+    font-size:10px ;
+    font-family:Arial ;
+  }
+  
+  img{
+     display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+     height:250px;
+    border:10px solid black ;
+    border-radius: 20px;
+    padding:10px;
+    }
+  .net{
+    color:magenta;
+    background-color:cyan;
+  }
+  h3{  
+    color:red;
+    font-size: 20px;
+    text-align:center;
+  }
+  a
+  {
+    font-size: 20px;
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 2px;
+    border-radius:20px;
+    padding: 10px; 
+    
+  }
+  
